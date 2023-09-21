@@ -4,7 +4,7 @@ Certainly, here's a comprehensive README for your project, including information
 
 # Photo Gallery Web Application
 
-![Project Preview](https://ibb.co/gyw9mZ6)
+![Project Preview](https://i.ibb.co/nrfm6MR/Screenshot-20230921-114841-Chrome.jpg)
 
 ## Author
 - **Name:** Lawal Taofik
