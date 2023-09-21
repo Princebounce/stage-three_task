@@ -26,7 +26,6 @@ import { auth } from "../../firebase";
 import { useNavigate } from "react-router-dom";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import "./Gallery.css";
 
 const Gallery = () => {
   const [items, setItems] = useState([]);
@@ -133,10 +132,8 @@ const Gallery = () => {
       <div className="gallery-content ">
         <Navbar collapseOnSelect expand="lg" className="pt-2" sticky="top">
           <Container>
-            <button>
               <Navbar.Brand
                 href="/index"
-  className="custom-link
                 style={{
                   color: "#14cce4",
                   borderRadius: "5px",
@@ -145,7 +142,6 @@ const Gallery = () => {
               >
                 Gallery
               </Navbar.Brand>
-            </button>
 
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
