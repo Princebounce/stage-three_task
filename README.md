@@ -23,7 +23,7 @@ This project is a web application for a beautiful photo gallery. It allows users
 - Unsplash API (for fetching photos)
 
 ## Live Page
-The live version of this project can be accessed [here](#). (Add the link to your live project here)
+The live version of this project can be accessed [here](https://stage-three-task.vercel.app). (Add the link to your live project here)
 
 ## Features
 - User authentication (login and sign-up)
@@ -38,12 +38,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository: 
    ```
-   git clone https://github.com/lawal-taofik/photo-gallery-app.git
+   git clone https://github.com/Princebounce/stage-three_task.git
    ```
 
 2. Change into the project directory:
    ```
-   cd photo-gallery-app
+   cd stage-three_task
    ```
 
 3. Install dependencies:
