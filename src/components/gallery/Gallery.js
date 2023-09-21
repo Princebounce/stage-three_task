@@ -135,6 +135,7 @@ const Gallery = () => {
             <button>
               <Navbar.Brand
                 href="/index"
+  className="custom-link
                 style={{
                   color: "#14cce4",
                   borderRadius: "5px",
