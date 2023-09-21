@@ -9,7 +9,7 @@ Certainly, here's a comprehensive README for your project, including information
 ## Author
 - **Name:** Lawal Taofik
 - **GitHub:** [Princebounce](https://github.com/Princebounce)
-- **Hosted:** [Live] (https://stage-three-task.vercel.app)
+- **Hosted:** [Live](https://stage-three-task.vercel.app)
 ## Description
 This project is a web application for a beautiful photo gallery. It allows users to view and interact with a collection of photos. Users can also perform actions like searching for photos and rearranging them within the gallery.
 
@@ -23,7 +23,7 @@ This project is a web application for a beautiful photo gallery. It allows users
 - Unsplash API (for fetching photos)
 
 ## Live Page
-The live version of this project can be accessed [here](https://stage-three-task.vercel.app). (Add the link to your live project here)
+The live version of this project can be accessed [here](https://stage-three-task.vercel.app).
 
 ## Features
 - User authentication (login and sign-up)
