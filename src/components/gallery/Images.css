@@ -1,0 +1,11 @@
+  .photo {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s linear;
+    filter: brightness(1); 
+  }
+  
+  .photo:hover {
+    filter: brightness(0.4); 
+  }
+  
