@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+Certainly, here's a comprehensive README for your project, including information about the author, technologies used, and a template for adding a link to the live page:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+# Photo Gallery Web Application
 
-In the project directory, you can run:
+![Project Preview](link-to-your-project-preview-image.jpg)
 
-### `npm start`
+## Author
+- **Name:** Lawal Taofik
+- **GitHub:** [Princebounce](https://github.com/Princebounce)
+- **LIVE:** [Test](https://stage-three-task.vercel.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Description
+This project is a web application for a beautiful photo gallery. It allows users to view and interact with a collection of photos. Users can also perform actions like searching for photos and rearranging them within the gallery.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
+- React
+- Firebase (for user authentication)
+- Axios (for making API requests)
+- Bootstrap (for styling)
+- Dnd Kit (for drag-and-drop functionality)
+- Font Awesome (for icons)
+- Unsplash API (for fetching photos)
 
-### `npm test`
+## Live Page
+The live version of this project can be accessed [here](#). (Add the link to your live project here)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
+- User authentication (login and sign-up)
+- Fetching random photos from Unsplash API
+- Searching for photos by tags
+- Drag-and-drop functionality for rearranging photos
+- Smooth and responsive user interface
+- Toast notifications for user feedback
 
-### `npm run build`
+## Installation
+To run this project locally, follow these steps:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository: 
+   ```
+   git clone https://github.com/lawal-taofik/photo-gallery-app.git
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Change into the project directory:
+   ```
+   cd photo-gallery-app
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Install dependencies:
+   ```
+   npm install
+   ```
 
-### `npm run eject`
+4. Start the development server:
+   ```
+   npm start
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+5. Open your browser and visit `http://localhost:3000` to view the application.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Usage
+- Register or log in to access the photo gallery.
+- Browse and search for photos using the search bar.
+- Click and drag photos to rearrange them within the gallery.
+- Sign out when done.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to customize the README with additional information or details about your project. If you have any further questions or need assistance with anything else, please let me know!
