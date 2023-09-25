@@ -1,16 +1,11 @@
-Certainly, here's a comprehensive README for your project, including information about the author, technologies used, and a template for adding a link to the live page:
-
----
-
 # Photo Gallery Web Application
 
-![Project Preview](link-to-your-project-preview-image.jpg)
+![Project Preview](https://ibb.co/gyw9mZ6)
 
 ## Author
 - **Name:** Lawal Taofik
 - **GitHub:** [Princebounce](https://github.com/Princebounce)
-- **LIVE:** [Test](https://stage-three-task.vercel.app/)
-
+- **Hosted:** [Live](https://stage-three-task.vercel.app)
 ## Description
 This project is a web application for a beautiful photo gallery. It allows users to view and interact with a collection of photos. Users can also perform actions like searching for photos and rearranging them within the gallery.
 
@@ -24,7 +19,7 @@ This project is a web application for a beautiful photo gallery. It allows users
 - Unsplash API (for fetching photos)
 
 ## Live Page
-The live version of this project can be accessed [here](#). (Add the link to your live project here)
+The live version of this project can be accessed [here](https://stage-three-task.vercel.app).
 
 ## Features
 - User authentication (login and sign-up)
@@ -39,12 +34,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository: 
    ```
-   git clone https://github.com/lawal-taofik/photo-gallery-app.git
+   git clone https://github.com/Princebounce/stage-three_task.git
    ```
 
 2. Change into the project directory:
    ```
-   cd photo-gallery-app
+   cd stage-three_task
    ```
 
 3. Install dependencies:
@@ -69,5 +64,3 @@ To run this project locally, follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize the README with additional information or details about your project. If you have any further questions or need assistance with anything else, please let me know!

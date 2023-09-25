@@ -132,7 +132,6 @@ const Gallery = () => {
       <div className="gallery-content ">
         <Navbar collapseOnSelect expand="lg" className="pt-2" sticky="top">
           <Container>
-            <button>
               <Navbar.Brand
                 href="/index"
                 style={{
@@ -143,7 +142,6 @@ const Gallery = () => {
               >
                 Gallery
               </Navbar.Brand>
-            </button>
 
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
