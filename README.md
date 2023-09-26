@@ -1,6 +1,6 @@
 # Photo Gallery Web Application
 
-![Project Preview](https://i.ibb.co/2qPhW35/Screenshot-20230921-114841-Chrome.jpg))
+![Project Preview](https://i.ibb.co/2qPhW35/Screenshot-20230921-114841-Chrome.jpg)
 
 ## Author
 - **Name:** Lawal Taofik
