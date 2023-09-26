@@ -5,7 +5,7 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { NavLink } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
-import "./Signup.css"; // You may want to create a separate CSS file for styling.
+import "./Signup.css"; 
 
 const Signup = (props) => {
   const [name, setName] = useState("");
@@ -26,6 +26,7 @@ const Signup = (props) => {
         showSuccessToast();
 
         setTimeout(() => {
+          console.log("Navigating to /");
           navigate("/");
         }, 3000);
       })
@@ -47,7 +48,7 @@ const Signup = (props) => {
 
   // Toast Error Func
   const showErrorToast = () => {
-    toast.error("Invalid email or password", {
+    toast.error("Enter valid email", {
       autoClose: 2000,
     });
   };

@@ -21,6 +21,7 @@ const Login = (props) => {
     signInWithEmailAndPassword(auth, email, password)
       .then((userCredential) => {
         console.log(userCredential);
+        
 
         showSuccessToast();
 
