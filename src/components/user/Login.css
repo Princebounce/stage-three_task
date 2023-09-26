@@ -12,6 +12,8 @@
 }
 
 .auth-form-container h2 {
+  text-align: center;
+  background: #14cce4;
   color: #333;
 }
 
